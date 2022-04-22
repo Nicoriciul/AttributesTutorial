@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Diagnostics;
 using static System.Console;
 
 namespace Contact
@@ -31,7 +32,22 @@ namespace Contact
 
         private void WriteAge()
         {
+            OutputDebugInfo();
+            OutputExtraInfo();
+
             WriteLine(_contact.AgeInYears);
+        }
+
+        [Conditional("EXTRA")]
+        private void OutputExtraInfo()
+        {
+            WriteLine("***EXTRA INFO***");
+        }
+
+        [Conditional("DEBUG")]
+        private void OutputDebugInfo()
+        {
+            WriteLine("***DEBUG MODE***");
         }
     }
 }
