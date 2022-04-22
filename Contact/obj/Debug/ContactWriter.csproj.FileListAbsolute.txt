@@ -1,0 +1,8 @@
+C:\work\daily\2022\q2\04_19\Contact\Contact\bin\Debug\Contact.exe.config
+C:\work\daily\2022\q2\04_19\Contact\Contact\bin\Debug\Contact.exe
+C:\work\daily\2022\q2\04_19\Contact\Contact\bin\Debug\Contact.pdb
+C:\work\daily\2022\q2\04_19\Contact\Contact\obj\Debug\ContactWriter.csproj.AssemblyReference.cache
+C:\work\daily\2022\q2\04_19\Contact\Contact\obj\Debug\ContactWriter.csproj.SuggestedBindingRedirects.cache
+C:\work\daily\2022\q2\04_19\Contact\Contact\obj\Debug\ContactWriter.csproj.CoreCompileInputs.cache
+C:\work\daily\2022\q2\04_19\Contact\Contact\obj\Debug\Contact.exe
+C:\work\daily\2022\q2\04_19\Contact\Contact\obj\Debug\Contact.pdb
